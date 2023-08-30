@@ -17,7 +17,7 @@ This project is a simple web application built using React that allows users to 
 
 ## Demo
 
-You can see a live demo of the project [here](https://manzoor231.github.io/TextUtil/).
+You can see a live demo of the project [https://manzoor231.github.io/TextUtil/].
 
 ## Features
 
