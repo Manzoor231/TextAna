@@ -1,23 +1,12 @@
-# Text Transformation Tool
+# TextAna Tool
 
 ## Description
 
 This project is a simple web application built using React that allows users to transform the case of text (convert to lowercase or uppercase) and provides additional information such as word count and reading time estimation.
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Demo
 
-You can see a live demo of the project [https://manzoor231.github.io/TextUtil/].
+You can see a live demo of the project https://manzoor231.github.io/TextUtil/.
 
 ## Features
 
@@ -37,7 +26,7 @@ You can see a live demo of the project [https://manzoor231.github.io/TextUtil/].
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/text-transformation-tool.git
+   git clone https://github.com/manzoor321/TextAna.git
 cd text-transformation-tool
 npm install
 npm start
