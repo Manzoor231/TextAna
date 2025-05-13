@@ -1,5 +1,10 @@
 # TextAna Tool
 <!-- GitAds-Verify: LJX69UG8D5CMVC951XKJSG4YINW22V1W -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=manzoor231/textana@github)](https://gitads.dev/v1/ad-track?source=manzoor231/textana@github)
+
+
 ## Description
 
 This project is a simple web application built using React that allows users to transform the case of text (convert to lowercase or uppercase) and provides additional information such as word count and reading time estimation.
